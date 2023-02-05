@@ -1,4 +1,0 @@
-run = ["bash", "main.sh"]
-
-hidden = ["node_modules"]
-entrypoint = "WELCOME.md"
